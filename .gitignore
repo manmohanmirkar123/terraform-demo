@@ -1,6 +1,6 @@
 terraform.tfstate.backup
 terraform.tfstate
-/.terraform/*
+/.terraform*
 .terraform.lock.hcl
 *.exe
 .terraform.tfstate.lock.info
