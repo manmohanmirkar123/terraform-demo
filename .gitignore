@@ -7,3 +7,4 @@ terraform.tfstate
 modules.json
 .gitignore
 /module-lab1/.terraform*
+/module-lab1/.terraform/modules/
