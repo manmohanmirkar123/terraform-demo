@@ -4,3 +4,5 @@ terraform.tfstate
 .terraform.lock.hcl
 *.exe
 .terraform.tfstate.lock.info
+modules.json
+.gitignore
