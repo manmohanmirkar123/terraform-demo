@@ -6,3 +6,4 @@ terraform.tfstate
 .terraform.tfstate.lock.info
 modules.json
 .gitignore
+module-lab1/.terraform/
